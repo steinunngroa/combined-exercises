@@ -71,6 +71,8 @@ Alternatively, you can again use **GitHub Desktop** which has a button in the up
 
 If you then push the button **Send Pull Request** you create the pull request and the top right button changes to a number identifying the pull request. Clicking it sends you to the web page for the pull request.
 
+![Created pull request in **GitHub Desktop**](figures/github-active-pull-request.png)
+
 In your case you won't have the option of merging the pull request. I have that, because I can modify both my own repository and this class repository. You will have a similar page, though. It shows the history of what you have done to your code and the comments you have made when creating the pull request. There is also a message about code being checked. I describe that below.
 
 This pull request remains open until either I merge it into this repository -- which I do not plan to do -- or until you or I close it. Whenever you push changes to your repository it will also show up on this pull request, so you now have an automatic way of submitting your handins. You just push changes to GitHub.
