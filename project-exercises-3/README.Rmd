@@ -1,6 +1,6 @@
 ---
 title: "Project exercises 3"
-author: "Your Name"
+author: "Steinunn Groa Sigurdardottir"
 date: "`r Sys.Date()`"
 output:
   md_document:
